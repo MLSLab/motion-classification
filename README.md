@@ -1,5 +1,5 @@
-# motion-classification
-Code for the walking analysis
+# Introduction
+Code for "Recognition of Gait Patterns". Details will be updated soon. 
 
 ## Getting Started
 To be updated
